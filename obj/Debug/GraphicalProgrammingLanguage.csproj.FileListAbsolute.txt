@@ -58,3 +58,15 @@ C:\Users\sunny\Desktop\pankaj\GraphicalProgrammingLanguage-master\GraphicalProgr
 C:\Users\sunny\Desktop\pankaj\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalProgrammingLanguage.csproj.CopyComplete
 C:\Users\sunny\Desktop\pankaj\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalProgrammingLanguage.exe
 C:\Users\sunny\Desktop\pankaj\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalProgrammingLanguage.pdb
+C:\Users\sunny\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalProgrammingLanguage.csprojAssemblyReference.cache
+C:\Users\sunny\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalProgrammingLanguage.Properties.Resources.resources
+C:\Users\sunny\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalProgrammingLanguage.csproj.GenerateResource.cache
+C:\Users\sunny\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalProgrammingLanguage.exe
+C:\Users\sunny\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalProgrammingLanguage.pdb
+C:\Users\sunny\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\bin\Debug\GraphicalProgrammingLanguage.exe.config
+C:\Users\sunny\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\bin\Debug\GraphicalProgrammingLanguage.exe
+C:\Users\sunny\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\bin\Debug\GraphicalProgrammingLanguage.pdb
+C:\Users\sunny\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\bin\Debug\WinFormsSyntaxHighlighter.dll
+C:\Users\sunny\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\bin\Debug\WinFormsSyntaxHighlighter.pdb
+C:\Users\sunny\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalProgrammingLanguage.GraphicsProgram.resources
+C:\Users\sunny\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalProgrammingLanguage.csproj.CopyComplete
